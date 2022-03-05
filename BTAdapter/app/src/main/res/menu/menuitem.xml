@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuSortByPhone"
+        android:title="SortByPhone"/>
+    <item
+        android:id="@+id/mnuAdd"
+        android:title="Add"/>
+    <item
+        android:id="@+id/mnuSortByName"
+        android:title="SortByName"/>
+    <item
+        android:id="@+id/mnuSortById"
+        android:title="SortByID"/>
+
+</menu>
